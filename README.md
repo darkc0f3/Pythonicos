@@ -1,2 +1,2 @@
 # Pythonicos
-repositorio teste do curso Pythonicos.
+repositorio de teste do curso Pythonicos.
